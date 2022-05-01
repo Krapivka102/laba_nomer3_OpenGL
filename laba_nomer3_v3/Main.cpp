@@ -193,7 +193,7 @@ int main()
 	}
 
 
-
+	//Удалить все объекты, которые мы создали
 	VAO1.Delete();
 	VBO1.Delete();
 	EBO1.Delete();
